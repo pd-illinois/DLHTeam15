@@ -58,6 +58,7 @@ The pre-trained models based on GTN and GCN are placed in the GitHub repository.
 
 **To test our feasibility study approach:**
 1. After installing the requirements, execute the Jupyter Notebook: **GGPT2.ipynb**. The pre-trained GPT2 model is a part of this GitHub repository.
+![alt text](/image.png)
 
 Please Note: Information on other ablations can be found in the paper
 ## 4. Pre-training and pre-trained models:
